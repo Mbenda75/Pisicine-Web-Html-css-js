@@ -1,0 +1,14 @@
+table.tab{
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+}
+td.td1{
+    background-color: aqua;
+    border: 5px solid black;
+    width: 50%;
+}
+td.td2{
+    background-color:brown;
+    border:5px solid black;
+}
